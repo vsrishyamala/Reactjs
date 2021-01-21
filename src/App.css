@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: lightpink;
+
+}
+
+.con
+{
+  flex: 1;
+}
+
+.navv
+{
+  text-align: left;
+  background-attachment: fixed;
+ 
+  margin: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}

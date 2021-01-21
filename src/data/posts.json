@@ -1,0 +1,69 @@
+[
+    {
+      "fname": "John",
+      "lname": "Bunyan",
+      "book": "The Pilgrim's Process",
+      "available": 2
+    },
+    {
+      "fname": "Daniel ",
+      "lname": "Defoe",
+      "book": "Robinson Crusoe",
+      "available": 2
+    },
+    {
+      "fname": "Jonathan",
+      "lname": "Swift",
+      "book": "Gulliver’s Travels",
+      "available": 3
+    },
+    {
+      "fname": " Henry",
+      "lname": "Fielding",
+      "book": "Fielding",
+      "available": 4
+    },
+    {
+      "fname": "Laurence",
+      "lname": "Sterne",
+      "book": "The Life and Opinions of Tristram Shandy, Gentleman ",
+      "available": 2
+    },
+    {
+      "fname": "Jane",
+      "lname": "Austen",
+      "book": "Emma",
+      "available": 3
+    },
+    {
+      "fname": "Charlotte ",
+      "lname" : "Brontë",
+      "book": "Jane Eyre ",
+      "available": 2
+    },
+    {
+      "fname": "Wilkie",
+      "lname" : "Collins",
+      "book": "The Moonstone",
+      "available": 2
+    },
+    {
+      "fname": "George",
+      "lname": "Eliot",
+      "book": "Middlemarch ",
+      "available": 2
+    },
+    {
+      "fname": "Anthony",
+      "lname": "Trollope",
+      "book": "The Way We Live Now ",
+      "available": 3
+    },
+    {
+      "fname": "George",
+      "lname": "Gissing ",
+      "book": "New Grub Street",
+      "available": 2
+    }
+  
+  ]
